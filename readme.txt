@@ -5,4 +5,4 @@ fourth
 change1+1=change2
 create a new branch is quick.
 qucik2.
-or simple
+and simple
